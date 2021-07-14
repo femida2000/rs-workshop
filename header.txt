@@ -1,7 +1,4 @@
 something went wrong
 changes from master
- new changes
-
-
-
-nothing displayed
+changes from first
+Test from master: new changes!!!
